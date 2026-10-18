@@ -47,6 +47,8 @@ answer, and only for students on the teacher's class list. The teacher sees it o
 one square per question for each student, the questions the class finds hardest, and **● Live** during the lesson. It is
 not homework and not a mark. Signed out, the page works exactly the same and nothing leaves the browser. The answers themselves stay in the browser either way: on another computer the board still has the record, but the boxes start empty.
 
+The `tools/` named here stay on Daniel's computer: they are not in this repository (since 18 Oct 2026).
+
 Behind it: `js/lesson.js` and `js/signin.js` are copies of `labs-shared/` (made by `tools/practicals-sync.mjs` in the
 workspace), `js/config.js` names this practical, and `data/questions.json` lists its questions for the board
 (`node tools/make-questions.mjs` writes it from the page itself; `--check` says when it is out of date). Keep a question's
@@ -64,7 +66,7 @@ our grid for "Show our squares"; `an` lists each animal of a random quadrat (pos
 or not). The random quadrats were chosen so that every expected value is at least 5 (χ² = 8.17, p = 0.0043), inside one
 zone (the middle shore), as part 2 teaches. Copy and Download in part 3 give exactly the numbers the page uses, so r in
 Google Sheets is the page's r. The generator needs the drone photograph in `full/` (not in this repository; its licence
-is in `tools/source-credits.json`).
+is under Pictures, below).
 
 ## Pictures
 - Drone photograph of the shore: Boris Izmaylov, [Unsplash](https://unsplash.com/photos/vibrant-blue-ocean-meets-a-rocky-moss-covered-coastline-UFHcOip6GJA) (Unsplash Licence).
