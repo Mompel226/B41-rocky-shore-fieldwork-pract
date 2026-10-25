@@ -1,4 +1,4 @@
-# Rocky shore fieldwork — IB Biology
+# IB Biology practical: rocky shore fieldwork (B4.1)
 
 **Live:** https://nlcsbiology.com/rocky-shore-fieldwork-pract/
 
