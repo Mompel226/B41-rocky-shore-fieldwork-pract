@@ -1,6 +1,6 @@
 # IB Biology practical: rocky shore fieldwork (B4.1)
 
-**Live:** https://nlcsbiology.com/rocky-shore-fieldwork-pract/
+**Live:** https://nlcsbiology.com/B41-rocky-shore-fieldwork-pract/
 
 **Where it sits:** a *practical* — the documents and practice for a real practical, here the Year 12 IB
 ecology field trip — listed under the IB toggle of the [Biology Hub](https://nlcsbiology.com/biology-hub/)
