@@ -76,5 +76,5 @@ is under Pictures, below).
 - Part 10's pictures of the things to bring (`img/kit/`): [Fluent Emoji](https://github.com/microsoft/fluentui-emoji),
   Microsoft, MIT licence (its notice in `img/kit/LICENSE-fluentui-emoji.txt`).
 
-Made by Dr Daniel Mompel Riera, NLCS Jeju. Code: AGPL-3.0 (LICENSE). Teaching material: CC BY-NC-SA 4.0
+Made by Dr Daniel Mompel Riera. Code: AGPL-3.0 (LICENSE). Teaching material: CC BY-NC-SA 4.0
 (LICENSE-CONTENT). See NOTICE.
