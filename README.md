@@ -1,5 +1,7 @@
 # IB Biology practical: rocky shore fieldwork (B4.1)
 
+![The rocky shore practical: the drone photograph of the shore at low tide, the upper shore marked, with part 1's task beside it](docs/img/screen.jpg)
+
 **Live:** https://nlcsbiology.com/B41-rocky-shore-fieldwork-pract/
 
 **Where it sits:** a *practical* — the documents and practice for a real practical, here the Year 12 IB
